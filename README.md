@@ -27,7 +27,8 @@ expo start
 
 ### Credits 🤝
 
-Thanks to Rodrigo from Rocketseat (https://github.com/rodrigorgtic) for making the content available in his repository and on YouTube.
+
+Thanks to [Rodrigo da Rocketseat](https://github.com/rodrigorgtic/ "Rodrigo da Rocketseat") for making the content available in his repository and on YouTube.
 
 
 
