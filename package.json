@@ -28,12 +28,16 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@swc/core": "^1.2.196",
+    "@swc/jest": "^0.2.21",
     "@testing-library/jest-native": "^4.0.5",
     "@testing-library/react-native": "^9.1.0",
     "@testing-library/user-event": "^14.2.0",
+    "@types/jest": "^28.1.0",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.64.12",
     "react-test-renderer": "17",
+    "ts-node": "^10.8.1",
     "typescript": "~4.3.5"
   },
   "jest": {
@@ -41,7 +45,11 @@
     "transformIgnorePatterns": [
       "node_modules/(?!((jest-)?react-native|@react-native(-community)?)|expo(nent)?|@expo(nent)?/.*|@expo-google-fonts/.*|react-navigation|@react-navigation/.*|@unimodules/.*|unimodules|sentry-expo|native-base|react-native-svg)"
     ],
-    "moduleFileExtensions": ["ts", "tsx", "js"]
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js"
+    ]
   },
   "private": true
 }
