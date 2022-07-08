@@ -4,9 +4,7 @@
 
 
 ### Overview :book:
-
-
-
+App de um gerenciador de senhas utilizando React-Native, Expo.CLI e AsyncStorage.
 
 
 ### How to use :toolbox:
